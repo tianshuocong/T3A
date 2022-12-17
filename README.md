@@ -7,3 +7,5 @@ A simple implementation for T3A (NeurIPS 2021 Spotlight)
 - The official implementation is [here](https://github.com/matsuolab/T3A)
 
 - The source model is trained on CIFAR-10, the training code & checkpoints are from [here](https://github.com/huyvnphan/PyTorch_CIFAR10) 
+
+- Try `python utility.py` to compare the utility of the source model and a T3A-based model.
